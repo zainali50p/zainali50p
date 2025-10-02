@@ -57,4 +57,3 @@ I enjoy working on **AI models, cross-platform apps, and embedded systems**, and
 ---
 
 ⭐️ From [Zain](https://github.com/zainali50p)
-feat: added awesome profile README
