@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Zain - Dev & AI Researcher" />
+  <img src="Untitled design (1).png" alt="Zain - Dev & AI Researcher" />
 </p>
 
 # Hi, I'm Zain 👋  
