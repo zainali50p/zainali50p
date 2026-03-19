@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Dev+%26+AI+Researcher;Building+Creative+AI+Projects;Crafting+apps+with+React" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <img src="Untitled design (1).png" alt="Zain - Dev & AI Researcher" />
 </p>
